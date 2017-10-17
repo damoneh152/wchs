@@ -1,0 +1,196 @@
+ @charset "utf-8";
+body {
+	background: radial-gradient(#c5b358, #000000);
+	font-size: xx-large;
+	font-family: 'Quantico', sans-serif;
+}
+.video {
+	position: static;
+	top: -417px;
+	border-width: thick;
+	width: 1120px;
+	height: 630px;
+}
+
+P {
+	margin: auto;
+	font-size: x-large;
+}#wchs {
+	font-size: 2em;
+}
+.desk {
+	margin-left: 30px;
+	border: medium solid #000000;
+	margin-right: 30px;
+	width: 738px;
+	margin-top: 30px;
+	position: static;
+	padding-top: 0px;
+	height: 418px;
+	text-align: center;
+
+}
+#myButton {
+	background-color: transparent;
+	-moz-border-radius: 42px;
+	-webkit-border-radius: 42px;
+	border-radius: 42px;
+	border: 2px solid #000000;
+	display: inline-block;
+	cursor: pointer;
+	color: #000000;
+	font-family: 'Quantico', sans-serif;
+	font-size: 17px;
+	font-weight: bold;
+	padding: 22px 7px;
+	text-decoration: none;
+	text-shadow: 0px 0px 48px #2f6627;
+	margin-left: 30px;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	width: 80px;
+	height: 20px;
+	text-align: center;
+	line-height: normal;
+	vertical-align: bottom;
+}
+#myButton:hover {
+	background-color:transparent;
+}
+#myButton:active {
+	position:relative;
+	top:1px;
+}
+
+#myButton1 {
+	background-color: transparent;
+	-moz-border-radius: 42px;
+	-webkit-border-radius: 42px;
+	border-radius: 42px;
+	border: 2px solid #000000;
+	display: inline-block;
+	cursor: pointer;
+	color: #000000;
+	font-family: 'Quantico', sans-serif;
+	font-size: 17px;
+	font-weight: bold;
+	padding: 22px 7px;
+	text-decoration: none;
+	text-shadow: 0px 0px 48px #2f6627;
+	margin-left: 30px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	width: 80px;
+	text-align: center;
+	height: 20px;
+}
+#myButton1:hover {
+	background-color:transparent;
+}
+#myButton1:active {
+	position:relative;
+	top:1px;
+}
+
+#myButton2 {
+	background-color: transparent;
+	-moz-border-radius: 42px;
+	-webkit-border-radius: 42px;
+	border-radius: 42px;
+	border: 2px solid #000000;
+	display: inline-block;
+	cursor: pointer;
+	color: #000000;
+	font-family: 'Quantico', sans-serif;
+	font-size: 17px;
+	font-weight: bold;
+	padding: 22px 7px;
+	text-decoration: none;
+	text-shadow: 0px 0px 48px #2f6627;
+	margin-left: 30px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	width: 80px;
+	text-align: center;
+	height: 20px;
+}
+#myButton2:hover {
+	background-color:transparent;
+}
+#myButton2:active {
+	position:relative;
+	top:1px;
+}
+
+#myButton3 {
+	background-color: transparent;
+	-moz-border-radius: 42px;
+	-webkit-border-radius: 42px;
+	border-radius: 42px;
+	border: 2px solid #000000;
+	display: inline-block;
+	cursor: pointer;
+	color: #000000;
+	font-family: 'Quantico', sans-serif;
+	font-size: 17px;
+	font-weight: bold;
+	padding: 22px 7px;
+	text-decoration: none;
+	text-shadow: 0px 0px 48px #2f6627;
+	margin-left: 30px;
+	margin-top: 20px;
+	margin-bottom: 0px;
+	width: 80px;
+	text-align: center;
+	height: 20px;
+}
+#myButton3:hover {
+	background-color:transparent;
+}
+#myButton3:active {
+	position:relative;
+	top:1px;
+}
+ul {
+	list-style-type: none;
+	position: static;
+	padding-left: 670spx;
+	}
+
+.twitter-timeline {
+	width:300px;
+	height:300px;
+	margin-top:3px;
+	margin-right:5%;
+	text-align:center;
+	float:right;
+	}
+#footer {
+	padding-top: 100px;
+	text-align: center;
+}
+
+
+#crew {
+	text-align: center;
+	display: block;
+	padding-bottom: 101px;
+	padding-left: 150px;
+	color: #FFFFFF;
+	
+}
+#buttons {
+	text-align: center;
+}
+.crewpicsdiv {
+	float:left;
+	margin-right:5%;
+	background-color: transparent;
+	
+	
+}
+.abouttxt {
+	padding-left: 200px;
+	padding-right: 200px;
+
+}

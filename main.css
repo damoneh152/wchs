@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color: #000000;
+	color: #C5B358;
+	background-image: -webkit-linear-gradient(270deg,rgba(23,22,22,1.00) 0%,rgba(46,42,42,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(23,22,22,1.00) 0%,rgba(46,42,42,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(23,22,22,1.00) 0%,rgba(46,42,42,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(23,22,22,1.00) 0%,rgba(46,42,42,1.00) 100%);
+	-webkit-box-shadow: 0px 0px;
+	box-shadow: 0px 0px;
+	font-style: normal;
+	font-size: large;
+	margin-left: 1px;
+	text-decoration: none;
+	border-top: thick dashed #B10002;
+}
+#girl {
+}
+
+img{
+	margin-left: 249px;
+	background-attachment: scroll;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	border-style: dotted;
+}
+h1.title {
+	text-align: center;
+	margin-left: 135px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	-webkit-box-shadow: 0px 0px 0px;
+	box-shadow: 0px 0px 0px;
+	text-transform: capitalize;
+	border-top-style: none;
+}
+h2.title {
+	text-align: center
+	margin-left: 642px;
+	margin-left: 642px;
+	min-width: 0px;
+	border-width: thin;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+body p a {
+	color: #BC1619;
+	font-style: italic;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	text-decoration: underline;
+}
+ul.menu {
+	background-color: #BB1414;
+	width: 100%;
+	height: 30%;
+	color: #AD0D0F;
+	border-top-width: thick;
+	background-image: -webkit-linear-gradient(270deg,rgba(170,80,82,1.00) 0%,rgba(255,0,0,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(170,80,82,1.00) 0%,rgba(255,0,0,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(170,80,82,1.00) 0%,rgba(255,0,0,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(170,80,82,1.00) 0%,rgba(255,0,0,1.00) 100%);
+}
+body p {
+}
+
+ .menu a { 
+	text-align: center
+	margin-left: 642px;
+	margin-left: 642px;
+	min-width: 0px;
+	border-width: thin;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	color: #000000;
+}
